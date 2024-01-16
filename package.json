@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hattip/bundler-deno": "^0.0.38",
+    "office365-nodejs-authentication": "^1.0.0"
+  }
+}
